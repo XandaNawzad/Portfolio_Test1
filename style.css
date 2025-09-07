@@ -7,6 +7,9 @@ li a:hover{
       background-color: darkgoldenrod;
       color: white;
 }
+button span:hover{
+      background-color: darkgoldenrod;
+}
 
 /* style home section*/
 #img1 {
@@ -14,6 +17,9 @@ li a:hover{
 }
 img:hover{
       box-shadow: 12px -12px darkgoldenrod ;
+}
+h1 {
+    color: darkgoldenrod;
 }
 #btn1 a:hover {
       background-color: darkgoldenrod;
