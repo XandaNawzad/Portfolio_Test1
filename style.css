@@ -21,6 +21,13 @@ img:hover{
 h1 {
     color: darkgoldenrod;
 }
-#btn1 a:hover {
+#btn a:hover {
       background-color: darkgoldenrod;
+}
+/* style about section*/
+#img2 {
+      border-radius: 8%;
+}
+img:hover{
+      box-shadow: 12px -12px darkgoldenrod ;
 }
