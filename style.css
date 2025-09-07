@@ -7,3 +7,14 @@ li a:hover{
       background-color: darkgoldenrod;
       color: white;
 }
+
+/* style home section*/
+#img1 {
+      border-radius: 100%;
+}
+img:hover{
+      box-shadow: 12px -12px darkgoldenrod ;
+}
+#btn1 a:hover {
+      background-color: darkgoldenrod;
+}
