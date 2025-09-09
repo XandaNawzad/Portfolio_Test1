@@ -33,7 +33,13 @@ h1 {
 }
 
 /* style project section*/
-
 #procard:hover {
       transform: scale(1.1);
+}
+/* style contact section*/
+#btn1 button:hover{
+      background-color: darkgoldenrod;
+}
+form:hover{
+      background-color: lightblue;
 }
