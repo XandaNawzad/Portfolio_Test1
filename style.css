@@ -15,7 +15,7 @@ button span:hover{
 #img1 {
       border-radius: 100%;
 }
-img:hover{
+#img1:hover{
       box-shadow: 12px -12px darkgoldenrod ;
 }
 h1 {
@@ -28,6 +28,6 @@ h1 {
 #img2 {
       border-radius: 8%;
 }
-img:hover{
+#img2:hover{
       box-shadow: 12px -12px darkgoldenrod ;
 }
