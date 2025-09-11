@@ -8,6 +8,6 @@
    Contacts Section )
 
 - The language ( Html , CSS , JS )
-- CSS framework (Bootstraps )
+- CSS framework (Bootstraps ).
   
 
